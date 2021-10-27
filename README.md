@@ -7,7 +7,8 @@
 - I have spent many years learning a lot of languages and currently I have stopped learning (new languages) and starting doing as many projects as I can depending on what I'm interested recently.
 - I usually use Java, Python and Javascript.
 - I'm interested in game, web (currently only frontend) and desktop application development.
-- I am also interested in music, sound design (SFX) and pixel art (I suck at it 😢)
+- I'm also interested in music, sound design (SFX) and pixel art (I suck at it 😢)
+- I'm the founder of a small team called "Telek Studios", we usually create games but we think of ourselves as a software/art team instead of an indie game dev team.
 
 
 
