@@ -4,7 +4,7 @@
 
 - Hi, my name is Oğuzhan Topaloğlu, I'm also known as "OziRis78" or "Tünerik Gezgini" on the web.
 - I study Computer Engineering & Mathematical Engineering at Yıldız Technical University in Istanbul, Turkey.
-- I have spent many years learning a lot of languages and currently I have stopped learning (new languages) and starting doing as many projects as I can depending on what I'm interested recently.
+- I have spent many years learning a lot of languages and currently I have stopped learning (new languages) and started doing as many projects as I can depending on what I'm interested recently.
 - I usually use Java, Python and Javascript.
 - I'm interested in game, web (currently only frontend) and desktop application development.
 - I'm also interested in music, sound design (SFX) and pixel art (I suck at it 😢)
