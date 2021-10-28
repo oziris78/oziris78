@@ -46,15 +46,17 @@
 - ⚫ Python
 - ⚪ HTML
 - ⚫ Java
+   - libGDX, javaFX, swing
 - ⚪ CSS
 - ⚪ SASS
 - ⚫ Javascript
+   - jQuery, react (?)
 - ⚪ C++
 - ⚪ Assembly 8086 (?)
 - ⚪ MATLAB (?)
 
 <br>
-NOTE 1: the list follows the order of me learning all of the languages <br>
+NOTE 1: the list follows the order of me learning all of the languages (only the main list follows the order, sublists don't) <br>
 NOTE 2: the question mark (?) means I'm currently learning it <br>
 <br>
 
@@ -74,7 +76,7 @@ NOTE 2: the question mark (?) means I'm currently learning it <br>
     - Da Vinci Resolve, OBS 
 
 - Other
-    - Gradle, Maven, jQuery, React, Webpack, Git, Github, NPM
+    - Gradle, Maven, Webpack, Git, Github, NPM
 
 
 <br>
@@ -135,7 +137,7 @@ NOTE 2: the question mark (?) means I'm currently learning it <br>
 
 <br>
 
-### Java (Gradle/Jitpack) Extensions
+### Java (Jitpack) Extensions
    - <a href="https://github.com/oziris78/telek-math">telek-math</a>
    - <a href="https://github.com/oziris78/telek-gdx">telek-gdx</a>
    - <a href="https://github.com/oziris78/telek-fx">telek-fx</a> 
