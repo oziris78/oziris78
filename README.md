@@ -4,10 +4,10 @@
 
 - Hi, my name is Oğuzhan Topaloğlu, I'm also known as "OziRis78" or "Tünerik Gezgini" on the web.
 - I study Computer Engineering & Mathematical Engineering at Yıldız Technical University in Istanbul, Turkey.
-- I have spent many years learning a lot of languages and currently I have stopped learning (new languages) and started doing as many projects as I can depending on what I'm interested recently.
+- I have spent many years learning a lot of languages and currently I have stopped learning new languages and started doing as many projects as I can depending on what I'm interested in recently.
 - I usually use Java, Python and Javascript.
 - I'm interested in game, web (currently only frontend) and desktop application development.
-- I'm also interested in music, sound design (SFX) and pixel art (I suck at it 😢)
+- I'm also interested in music, sound design (SFX) and pixel art
 - I'm the founder of a small team called "Telek Studios", we usually create games but we think of ourselves as a software/art team instead of an indie game dev team.
 
 
@@ -52,8 +52,8 @@
 - ⚫ Javascript
    - jQuery, react (?)
 - ⚪ C++
-- ⚪ Assembly 8086 (?)
-- ⚪ MATLAB (?)
+- ⚪ Assembly 8086
+- ⚪ MATLAB
 
 <br>
 NOTE 1: the list follows the order of me learning all of the languages (only the main list follows the order, sublists don't) <br>
@@ -137,7 +137,7 @@ NOTE 2: the question mark (?) means I'm currently learning it <br>
    
 <br>
 
-### LibGDX Projects
+### libGDX Projects
    - JAAFP (Just Another Annoying F***ing Platformer)
 
 
