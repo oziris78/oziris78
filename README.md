@@ -42,22 +42,23 @@
 
 ### All the programming/markup/query languages I know:
 
-- ⚪ C
-- ⚫ Python
+- ⚫ C
+- 🔴 Python
 - ⚪ HTML
-- ⚫ Java
+- 🔴 Java
    - libGDX, javaFX, swing
 - ⚪ CSS
-- ⚪ SASS
+- ⚫ SASS
 - ⚫ Javascript
    - jQuery, react (?)
-- ⚪ C++
-- ⚪ Assembly 8086
-- ⚪ MATLAB
+- ⚫ C++
+- ⚫ Assembly 8086
+- ⚫ MATLAB
 
 <br>
 NOTE 1: the list follows the order of me learning all of the languages (only the main list follows the order, sublists don't) <br>
 NOTE 2: the question mark (?) means I'm currently learning it <br>
+NOTE 3: red dots show my favourite programming languages, black dots shows the other programming languages and the white dots shows the markup/query languages. <br>
 <br>
 
 
