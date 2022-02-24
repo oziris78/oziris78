@@ -10,23 +10,16 @@
 - I'm also interested in music, sound design (SFX) and pixel art
 - I'm the founder of a small team called "Telek Studios", we usually create games but we think of ourselves as a software/art team instead of an indie game dev team.
 
-
-
 <br>
-<h1 align="center">Github Stats</h1>
-<br>
-
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=oziris78&show_icons=true&count_private=true&theme=dracula&include_all_commits=true">
-</p>
-<p align="center">
+   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oziris78&layout=compact&theme=dracula&langs_count=10">
 </p>
 
+
+
 <br>
-
-
-
 <h1 align="center">Languages I Know & Use</h1>
 
 <div align="center">
@@ -62,7 +55,7 @@ NOTE 3: red dots shows my favourite programming languages, black dots shows the 
 <br>
 
 
-### Technologies I'm Familiar With
+### Other Technologies I'm Familiar With
 
 - IDE / Text Editors
     - Android Studio, Intellij IDEA, Eclipse, VS Code, Microsoft Visual Studio, Sublime Text, PyCharm, Atom, NotePad++
@@ -80,8 +73,6 @@ NOTE 3: red dots shows my favourite programming languages, black dots shows the 
     - Gradle, Maven, Webpack, Git, Github, NPM
 
 
-<br>
-<br>
 
 
 <!--- too many and kinda looks ugly
@@ -125,7 +116,7 @@ NOTE 3: red dots shows my favourite programming languages, black dots shows the 
 
 
 
-
+<br>
 <h1 align="center">My Project Encyclopedia</h1>
 
 
