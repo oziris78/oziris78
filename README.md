@@ -58,11 +58,11 @@
 <br>
 NOTE 1: the list follows the order of me learning all of the languages (only the main list follows the order, sublists don't) <br>
 NOTE 2: the question mark (?) means I'm currently learning it <br>
-NOTE 3: red dots show my favourite programming languages, black dots shows the other programming languages and the white dots shows the markup/query languages. <br>
+NOTE 3: red dots shows my favourite programming languages, black dots shows the other programming languages and the white dots shows the markup/query languages. <br>
 <br>
 
 
-### Other Technologies
+### Technologies I'm Familiar With
 
 - IDE / Text Editors
     - Android Studio, Intellij IDEA, Eclipse, VS Code, Microsoft Visual Studio, Sublime Text, PyCharm, Atom, NotePad++
