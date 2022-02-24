@@ -119,8 +119,10 @@ NOTE 3: red dots shows my favourite programming languages, black dots shows the 
 <br>
 <h1 align="center">My Project Encyclopedia</h1>
 
-### Java Swing Projects
-   - Tünerik Koşusu
+### Java (Jitpack) Extensions
+   - <a href="https://github.com/oziris78/telek-math">telek-math</a>
+   - <a href="https://github.com/oziris78/telek-gdx">telek-gdx</a>
+   - <a href="https://github.com/oziris78/telek-fx">telek-fx</a> 
 
 ### JavaFX Projects
    - TelekHub
@@ -128,10 +130,8 @@ NOTE 3: red dots shows my favourite programming languages, black dots shows the 
 ### libGDX Projects
    - JAAFP (Just Another Annoying F***ing Platformer)
 
-### Java (Jitpack) Extensions
-   - <a href="https://github.com/oziris78/telek-math">telek-math</a>
-   - <a href="https://github.com/oziris78/telek-gdx">telek-gdx</a>
-   - <a href="https://github.com/oziris78/telek-fx">telek-fx</a> 
+### Java Swing Projects
+   - Tünerik Koşusu
 
 
 <br>
