@@ -84,6 +84,7 @@ NOTE 3: red dots shows my favourite programming languages, black dots shows the 
 <br>
 
 
+<!--- too many and kinda looks ugly
 
 <div align="center">
 <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white">
@@ -117,10 +118,12 @@ NOTE 3: red dots shows my favourite programming languages, black dots shows the 
 <img src="https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white">
 <img src="https://img.shields.io/badge/CLion-black?style=for-the-badge&logo=clion&logoColor=white">
 </div>
+
+<br>
+-->
    
 
 
-<br>
 
 
 <h1 align="center">My Project Encyclopedia</h1>
@@ -150,6 +153,7 @@ NOTE 3: red dots shows my favourite programming languages, black dots shows the 
    - <a href="https://github.com/oziris78/telek-fx">telek-fx</a> 
 
 
+<br>
 <h1 align="center">My Tutorials & Templates</h1>
 
 ### C++ Templates
