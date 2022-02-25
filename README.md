@@ -139,6 +139,7 @@ NOTE 3: red dots shows my favourite programming languages, black dots shows the 
 
 ### C++ Templates
    - <a href="https://github.com/oziris78/cpp-project-template">cpp-project-template</a>
+   - <a href="https://github.com/oziris78/cpp-multiple-project-template">cpp-multiple-project-template</a>
 
 ### Java Templates
    - <a href="https://github.com/oziris78/javafx_gradle_example">javafx_gradle_example</a>
