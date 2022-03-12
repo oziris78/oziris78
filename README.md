@@ -43,10 +43,12 @@
 - ⚪ CSS
 - ⚫ SASS
 - ⚫ Javascript
-   - jQuery, react (?)
+   - jQuery
 - ⚫ C++
 - ⚫ Assembly 8086
 - ⚫ MATLAB
+- ⚫ C# (?)
+
 
 <br>
 NOTE 1: the list follows the order of me learning all of the languages (only the main list follows the order, sublists don't) <br>
