@@ -130,7 +130,7 @@ NOTE 3: red dots shows my favourite programming languages, black dots shows the 
    - TelekHub
 
 ### libGDX Projects
-   - <a href="https://github.com/oziris78/jaafp">JAAFP (Just Another Annoying F***ing Platformer)</a>
+   - <a href="https://github.com/oziris78/jaafp">JAAFP</a>
 
 ### Java Swing Projects
    - Tünerik Koşusu
