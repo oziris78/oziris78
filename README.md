@@ -11,7 +11,7 @@
 - Me and <a href="https://www.facebook.com/yunus.cay.986">my best friend</a> are calling ourselves `Telek Studios`. We usually create games and desktop apps. My friend only helps me with graphics, SFX and music. I am the only developer of Telek Studios and I write all of the code that Telek Studios owns.
 
 
-<br> <br>
+<br>
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=oziris78&show_icons=true&count_private=true&theme=dracula&include_all_commits=true">
    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
