@@ -135,6 +135,8 @@ NOTE 3: red dots shows my favourite programming languages, black dots shows the 
 ### Java Swing Projects
    - Tünerik Koşusu
 
+### Frontend Projects
+   - <a href="https://github.com/oziris78/frontend_playground">Frontend Playground</a>
 
 <br>
 <h1 align="center">My Tutorials & Templates</h1>
