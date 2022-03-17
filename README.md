@@ -169,15 +169,5 @@ NOTE 3: red dots shows my favourite programming languages, black dots shows the 
 </a>
 
 
-   
-
-
-   
-
 </div>
-
-
-
-
-
 
