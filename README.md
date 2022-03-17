@@ -2,15 +2,16 @@
 
 <h1 align="center">About Me</h1>
 
-- Hi, my name is Oğuzhan Topaloğlu, I'm also known as "OziRis78" or "Tünerik Gezgini" on the web.
+- My fullname is Oğuzhan Topaloğlu, I'm also known as "OziRis78" or "Tünerik Gezgini" on the web.
 - I study Computer Engineering & Mathematical Engineering at Yıldız Technical University in Istanbul, Turkey.
-- I have spent many years learning a lot of languages and currently I have stopped learning new languages and started doing as many projects as I can depending on what I'm interested in recently.
-- I usually use Java, Python and Javascript.
+- I have spent my first 2.5 years of university to learn as many programming languages as I can.
+- Now I usually do various projects depending on what I'm recently interested in.
 - I'm interested in game, web (currently only frontend) and desktop application development.
-- I'm also interested in music, sound design (SFX) and pixel art
-- I'm the founder of a small team called "Telek Studios", we usually create games but we think of ourselves as a software/art team instead of an indie game dev team.
+- My hobbies are doing pixel art, creating SFX, creating music and obviously "reading".
+- Me and <a href="https://www.facebook.com/yunus.cay.986">my best friend</a> are calling ourselves `Telek Studios`. We usually create games and desktop apps. My friend only helps me with graphics, SFX and music. I am the only developer of Telek Studios and I write all of the code that Telek Studios owns.
 
-<br>
+
+<br> <br>
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=oziris78&show_icons=true&count_private=true&theme=dracula&include_all_commits=true">
    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -112,7 +113,6 @@ NOTE 3: red dots shows my favourite programming languages, black dots shows the 
 <img src="https://img.shields.io/badge/CLion-black?style=for-the-badge&logo=clion&logoColor=white">
 </div>
 
-<br>
 -->
    
 
@@ -151,6 +151,7 @@ NOTE 3: red dots shows my favourite programming languages, black dots shows the 
 
 
 <br>
+
 <h1 align="center">Reach Me</h1>
 
 <div align="center">
