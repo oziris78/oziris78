@@ -153,13 +153,23 @@ NOTE 3: red dots shows my favourite programming languages, black dots shows the 
 
 <div align="center">
    
+<a href="https://www.linkedin.com/in/o%C4%9Fuzhan-topalo%C4%9Flu-787b2b205/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" title="Facebook">
+</a>
+   
+<a href="https://www.instagram.com/tunerikgezgini79/">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" title="Facebook">
+</a>
+   
 <a href="https://www.facebook.com/tunerikgezgini78/">
 <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" title="Facebook">
 </a>
 
-<a href="https://www.instagram.com/tunerikgezgini79/">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" title="Facebook">
-</a>
+
+   
+
+
+   
 
 </div>
 
