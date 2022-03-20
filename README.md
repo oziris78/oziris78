@@ -125,6 +125,7 @@ NOTE 3: red dots shows my favourite programming languages, black dots shows the 
    - <a href="https://github.com/oziris78/telek-math">telek-math</a>
    - <a href="https://github.com/oziris78/telek-gdx">telek-gdx</a>
    - <a href="https://github.com/oziris78/telek-fx">telek-fx</a> 
+   - <a href="https://github.com/oziris78/better-swing">better-swing</a>
 
 ### JavaFX Projects
    - TelekHub
