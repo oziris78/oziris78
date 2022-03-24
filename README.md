@@ -40,7 +40,7 @@
 - 🔴 Python
 - ⚪ HTML
 - 🔴 Java
-   - libGDX, javaFX, swing
+   - libGDX, javaFX, swing, jUnit
 - ⚪ CSS
 - ⚫ SASS
 - ⚫ Javascript
