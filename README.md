@@ -135,7 +135,7 @@ NOTE 3: red dots shows my favourite programming languages, black dots shows the 
    - <a href="https://github.com/oziris78/jaafp">JAAFP</a>
 
 ### Java Swing Projects
-   - Tünerik Koşusu
+   - <a href="https://github.com/oziris78/tunerik_kosusu">Tünerik Koşusu</a>
 
 ### Frontend Projects
    - <a href="https://github.com/oziris78/frontend_playground">Frontend Playground</a>
