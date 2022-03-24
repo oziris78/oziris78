@@ -40,11 +40,11 @@
 - 🔴 Python
 - ⚪ HTML
 - 🔴 Java
-   - libGDX, javaFX, swing, jUnit
+   - swing, javaFX, libGDX, gradle, maven, junit
 - ⚪ CSS
 - ⚫ SASS
 - ⚫ Javascript
-   - jQuery
+   - jQuery, webpack, npm
 - ⚫ C++
 - ⚫ Assembly 8086
 - ⚫ MATLAB
@@ -63,9 +63,6 @@ NOTE 3: red dots shows my favourite programming languages, black dots shows the 
 - IDE / Text Editors
     - Android Studio, Intellij IDEA, Eclipse, VS Code, Microsoft Visual Studio, Sublime Text, PyCharm, Atom, NotePad++
 
-- Other
-    - Gradle, Maven, Webpack, Git, Github, NPM
-
 - Graphics Software
     - Aseprite, Paint.net, GIMP, Piskel, Pixelorama
 
@@ -75,6 +72,8 @@ NOTE 3: red dots shows my favourite programming languages, black dots shows the 
 - Video Software
     - Da Vinci Resolve, OBS 
 
+- Version Control
+    - Git, Github
 
 
 
