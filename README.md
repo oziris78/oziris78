@@ -42,11 +42,11 @@
 ```
 ⚫ C
 🔴 Python
-⚪ HTML
+⚫ HTML
 🔴 Java
    - swing, javaFX, libGDX
    - gradle, maven, junit
-⚪ CSS
+⚫ CSS
 ⚫ SASS
 ⚫ Javascript
    - jQuery, webpack, npm
@@ -56,17 +56,12 @@
 ⚫ LaTeX
 ⚫ C# (?)
 ```
-🔴: my favorite programming languages  ⚫: programming languages  ⚪: other languages
 
 Note 1: the list follows the order I learned the languages <br>
 Note 2: (?) means I'm currently learning it <br>
-Note 3: red dots show my favorite programming languages
+Note 3: red dots show my favorite ones <br>
 
-
-NOTE 3: red dots shows my favourite programming languages, black dots shows the other programming languages and the white dots shows the markup/query languages. <br>
 <br>
-
-
 
 
 
@@ -75,7 +70,7 @@ NOTE 3: red dots shows my favourite programming languages, black dots shows the 
 <table>
 <tr>
     <td align="center"> &nbsp;&nbsp; IDE / Text Editors &nbsp;&nbsp; </td>
-    <td align="center"> &nbsp;&nbsp; Android Studio, Intellij IDEA, VS Code, Eclipse, Microsoft VS, Sublime Text &nbsp;&nbsp; </td>
+    <td align="center"> &nbsp;&nbsp; Android Studio, Intellij IDEA, VS Code, Microsoft VS, Sublime Text, Eclipse &nbsp;&nbsp; </td>
 </tr>
 <tr>
     <td align="center"> &nbsp;&nbsp; Graphics Software &nbsp;&nbsp; </td>
@@ -94,15 +89,6 @@ NOTE 3: red dots shows my favourite programming languages, black dots shows the 
     <td align="center"> &nbsp;&nbsp; Git, Github &nbsp;&nbsp; </td>
 </tr>
 </table>
-
-
-
-
-
-
-
-
-   
 
 
 
