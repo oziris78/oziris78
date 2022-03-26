@@ -44,7 +44,8 @@
 🔴 Python
 ⚪ HTML
 🔴 Java
-   - swing, javaFX, libGDX, gradle, maven, junit
+   - swing, javaFX, libGDX
+   - gradle, maven, junit
 ⚪ CSS
 ⚫ SASS
 ⚫ Javascript
