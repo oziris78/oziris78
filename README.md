@@ -71,13 +71,13 @@ Note 3: red dots show my favorite ones <br>
 
 ### My Favorite 5 Projects:
 
-|      &nbsp; &nbsp; 📽 Project Title &nbsp; &nbsp;         |     &nbsp; &nbsp; 📑 Programming Languages &nbsp; &nbsp;     |
-|  :-----------------:  |  :-----------------:  |
-|  <a href="https://github.com/oziris78/telek-math"> &nbsp;&nbsp; Telek Math  &nbsp; &nbsp; </a> |  Java  |
-|  <a href="https://github.com/oziris78/telek-gdx"> &nbsp;&nbsp; Telek GDX  &nbsp; &nbsp; </a>  |  Java  |  
-|  <a href="https://github.com/oziris78/frontend_playground"> &nbsp;&nbsp; Frontend Playground &nbsp; &nbsp; </a>  |  HTML, CSS, SASS, JS  |
-|  <a href="https://github.com/oziris78/jaafp"> &nbsp;&nbsp; JAAFP &nbsp; &nbsp; </a>  |  Java  |
-|  <a href="https://github.com/oziris78/better-swing"> &nbsp;&nbsp; Better Swing &nbsp; &nbsp; </a>  |  Java  |
+|      &nbsp;&nbsp; 📽 Project Title &nbsp;&nbsp;         |     &nbsp;&nbsp; 📑 Programming Languages &nbsp;&nbsp;     |
+|  :---------------------------------------------------:  |  :------------------------------------------------------:  |
+|  &nbsp;&nbsp; <a href="https://github.com/oziris78/telek-math"> Telek Math  </a> &nbsp;&nbsp;                   |  Java  |
+|  &nbsp;&nbsp; <a href="https://github.com/oziris78/telek-gdx"> Telek GDX  </a> &nbsp;&nbsp;                     |  Java  |  
+|  &nbsp;&nbsp; <a href="https://github.com/oziris78/frontend_playground"> Frontend Playground </a> &nbsp;&nbsp;  |  HTML, CSS, SASS, JS  |
+|  &nbsp;&nbsp; <a href="https://github.com/oziris78/jaafp"> JAAFP </a> &nbsp;&nbsp;                              |  Java  |
+|  &nbsp;&nbsp; <a href="https://github.com/oziris78/better-swing"> Better Swing </a> &nbsp;&nbsp;                |  Java  |
 
 <br>
 
