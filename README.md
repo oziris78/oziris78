@@ -5,8 +5,7 @@
 
 <h1 align="center"> 🚀 About Me</h1>
 
-- Hello, my name is Oğuzhan Topaloğlu.
-- I'm known as "OziRis78" or "Tünerik Gezgini" on the web.
+- Hello, my name is Oğuzhan Topaloğlu. I'm known as "OziRis78" or "Tünerik Gezgini" on the web.
 - I study Computer Engineering & Mathematical Engineering at Yıldız Technical University in Istanbul, Turkey.
 - I have spent my first 2.5 years of university to learn as many programming languages as I can.
 - Now I usually do various projects depending on what I'm recently interested in.
@@ -68,14 +67,7 @@ Note 1: the list follows the order I learned the languages <br>
 Note 2: (?) means I'm currently learning it <br>
 Note 3: red dots show my favorite ones <br>
 
-
-
-
-
-
 <br>
-
-<h1 align="center">🖥 My Projects</h1>
 
 ### My Favorite 5 Projects:
 
@@ -89,19 +81,29 @@ Note 3: red dots show my favorite ones <br>
 
 <br>
 
-For all of my projects please take a look at my <a href="https://github.com/oziris78/oziris78/blob/main/projects.md">📚 **Project Encyclopedia** 📚</a>
-
-
-
-
-
-
+For all of my projects please take a look at my 📚 <a href="https://github.com/oziris78/oziris78/blob/main/projects.md"> **` Project Encyclopedia `**</a> 📚
 
 
 
 <br>
+<br>
 
-<h1 align="center"> 🚄 Other Technologies I'm Familiar With </h1>
+### Other Technologies I'm Familiar With
+
+```yaml
+   👨🏻‍💻 IDE / Text Editors:
+      - Android Studio, Intellij IDEA, Eclipse
+      - VS Code, Microsoft VS, Sublime Text
+      - PyCharm, Atom, Notepad++, DevCPP
+   🎨 Graphics Software:
+      - Aseprite, Paint.net, GIMP, Piskel
+   🎥 Video Software:
+      - Da Vinci Resolve, OBS
+   🎤 Audio Software: [a, b]
+      - Audacity, LMMS
+   📂 Version Control:
+      - Git, Github
+```
 
 <table>
 <tr>
@@ -134,6 +136,7 @@ For all of my projects please take a look at my <a href="https://github.com/ozir
 
 
 <br>
+<br>
 
 <h1 align="center">📭 Reach Me</h1>
 
@@ -152,10 +155,6 @@ For all of my projects please take a look at my <a href="https://github.com/ozir
 </a>
 
 </div>
-
-
-
-
 
 
 
