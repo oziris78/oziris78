@@ -56,10 +56,13 @@
 ⚫ LaTeX
 ⚫ C# (?)
 ```
+🔴: my favorite programming languages  ⚫: programming languages  ⚪: other languages
+
+Note 1: the list follows the order I learned the languages <br>
+Note 2: (?) means I'm currently learning it <br>
+Note 3: red dots show my favorite programming languages
 
 
-NOTE 1: the list follows the order of me learning all of the languages (only the main list follows the order, sublists don't) <br>
-NOTE 2: the question mark (?) means I'm currently learning it <br>
 NOTE 3: red dots shows my favourite programming languages, black dots shows the other programming languages and the white dots shows the markup/query languages. <br>
 <br>
 
