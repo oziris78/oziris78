@@ -1,7 +1,6 @@
 
 
 
-
 <h1 align="center"> 🚀 About Me</h1>
 
 - Hello, my name is Oğuzhan Topaloğlu.
@@ -40,45 +39,23 @@
 
 ### All the programming/markup/query languages I know:
 
-aaaaa 
-
-- C
-- Python
-   - bs4
-- HTML
-- Java
+```
+⚫ C
+🔴 Python
+⚪ HTML
+🔴 Java
    - swing, javaFX, libGDX, gradle, maven, junit
-- CSS
-- SASS
-- Javascript
+⚪ CSS
+⚫ SASS
+⚫ Javascript
    - jQuery, webpack, npm
-- C++
-- Assembly 8086
-- MATLAB
-- LaTeX
-- C# (?)
+⚫ C++
+⚫ Assembly 8086
+⚫ MATLAB
+⚫ LaTeX
+⚫ C# (?)
+```
 
-
-aaaaaa
-
-- ⚫ C
-- 🔴 Python
-   - bs4
-- ⚪ HTML
-- 🔴 Java
-   - swing, javaFX, libGDX, gradle, maven, junit
-- ⚪ CSS
-- ⚫ SASS
-- ⚫ Javascript
-   - jQuery, webpack, npm
-- ⚫ C++
-- ⚫ Assembly 8086
-- ⚫ MATLAB
-- ⚫ LaTeX
-- ⚫ C# (?)
-
-
-<br>
 
 NOTE 1: the list follows the order of me learning all of the languages (only the main list follows the order, sublists don't) <br>
 NOTE 2: the question mark (?) means I'm currently learning it <br>
