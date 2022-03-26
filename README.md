@@ -91,42 +91,19 @@ For all of my projects please take a look at my 📚 <a href="https://github.com
 ### Other Technologies I'm Familiar With
 
 ```yaml
-   👨🏻‍💻 IDE / Text Editors:
-      - Android Studio, Intellij IDEA, Eclipse
-      - VS Code, Microsoft VS, Sublime Text
-      - PyCharm, Atom, Notepad++, DevCPP
-   🎨 Graphics Software:
-      - Aseprite, Paint.net, GIMP, Piskel
-   🎥 Video Software:
-      - Da Vinci Resolve, OBS
-   🎤 Audio Software: [a, b]
-      - Audacity, LMMS
-   📂 Version Control:
-      - Git, Github
+👨🏻‍💻 IDE / Text Editors:
+   - Android Studio, Intellij IDEA, Eclipse
+   - VS Code, Microsoft VS, Sublime Text
+   - PyCharm, Atom, Notepad++, DevCPP
+🎨 Graphics Software:
+   - Aseprite, Paint.net, GIMP, Piskel
+🎥 Video Software:
+   - Da Vinci Resolve, OBS
+🎤 Audio Software: [a, b]
+   - Audacity, LMMS
+📂 Version Control:
+   - Git, Github
 ```
-
-<table>
-<tr>
-    <td align="center"> &nbsp;&nbsp; IDE / Text Editors &nbsp;&nbsp; </td>
-    <td align="center"> &nbsp;&nbsp; Android Studio, Intellij IDEA, VS Code, Microsoft VS, Sublime Text, Eclipse &nbsp;&nbsp; </td>
-</tr>
-<tr>
-    <td align="center"> &nbsp;&nbsp; Graphics Software &nbsp;&nbsp; </td>
-    <td align="center"> &nbsp;&nbsp; Aseprite, Paint.net, GIMP, Piskel &nbsp;&nbsp; </td>
-</tr>
-<tr>
-    <td align="center"> &nbsp;&nbsp; Video Software &nbsp;&nbsp; </td>
-    <td align="center"> &nbsp;&nbsp; Da Vinci Resolve, OBS &nbsp;&nbsp; </td>
-</tr>
-<tr>
-    <td align="center"> &nbsp;&nbsp; Audio Software &nbsp;&nbsp; </td>
-    <td align="center"> &nbsp;&nbsp; Audacity, LMMS &nbsp;&nbsp; </td>
-</tr>
-<tr>
-    <td align="center"> &nbsp;&nbsp; Version Control &nbsp;&nbsp; </td>
-    <td align="center"> &nbsp;&nbsp; Git, Github &nbsp;&nbsp; </td>
-</tr>
-</table>
 
 
 
