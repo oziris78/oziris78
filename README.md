@@ -1,6 +1,8 @@
 
 
 
+
+
 <h1 align="center"> 🚀 About Me</h1>
 
 - Hello, my name is Oğuzhan Topaloğlu.
@@ -21,6 +23,11 @@
    &nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oziris78&layout=compact&theme=dracula&langs_count=10">
 </p>
+
+
+
+
+
 
 
 <br>
@@ -61,11 +68,40 @@ Note 1: the list follows the order I learned the languages <br>
 Note 2: (?) means I'm currently learning it <br>
 Note 3: red dots show my favorite ones <br>
 
+
+
+
+
+
 <br>
 
+<h1 align="center">🖥 My Projects</h1>
+
+### My Favorite 5 Projects:
+
+|      &nbsp; &nbsp; 📽 Project Title &nbsp; &nbsp;         |     &nbsp; &nbsp; 📑 Programming Languages &nbsp; &nbsp;     |
+|  :-----------------:  |  :-----------------:  |
+|  <a href="https://github.com/oziris78/telek-math"> &nbsp;&nbsp; Telek Math  &nbsp; &nbsp; </a> |  Java  |
+|  <a href="https://github.com/oziris78/telek-gdx"> &nbsp;&nbsp; Telek GDX  &nbsp; &nbsp; </a>  |  Java  |  
+|  <a href="https://github.com/oziris78/frontend_playground"> &nbsp;&nbsp; Frontend Playground &nbsp; &nbsp; </a>  |  HTML, CSS, SASS, JS  |
+|  <a href="https://github.com/oziris78/jaafp"> &nbsp;&nbsp; JAAFP &nbsp; &nbsp; </a>  |  Java  |
+|  <a href="https://github.com/oziris78/better-swing"> &nbsp;&nbsp; Better Swing &nbsp; &nbsp; </a>  |  Java  |
+
+<br>
+
+For all of my projects please take a look at my <a href="https://github.com/oziris78/oziris78/blob/main/projects.md">📚 **Project Encyclopedia** 📚</a>
 
 
-### Other Technologies I'm Familiar With
+
+
+
+
+
+
+
+<br>
+
+<h1 align="center"> 🚄 Other Technologies I'm Familiar With </h1>
 
 <table>
 <tr>
@@ -92,23 +128,8 @@ Note 3: red dots show my favorite ones <br>
 
 
 
-<br>
 
-<h1 align="center">🖥 My Projects</h1>
 
-### My Favorite 5 Projects:
-
-|      &nbsp; &nbsp; 📽 Project Title &nbsp; &nbsp;         |     &nbsp; &nbsp; 📑 Programming Languages &nbsp; &nbsp;     |
-|  :-----------------:  |  :-----------------:  |
-|  <a href="https://github.com/oziris78/telek-math"> &nbsp;&nbsp; Telek Math  &nbsp; &nbsp; </a> |  Java  |
-|  <a href="https://github.com/oziris78/telek-gdx"> &nbsp;&nbsp; Telek GDX  &nbsp; &nbsp; </a>  |  Java  |  
-|  <a href="https://github.com/oziris78/frontend_playground"> &nbsp;&nbsp; Frontend Playground &nbsp; &nbsp; </a>  |  HTML, CSS, SASS, JS  |
-|  <a href="https://github.com/oziris78/jaafp"> &nbsp;&nbsp; JAAFP &nbsp; &nbsp; </a>  |  Java  |
-|  <a href="https://github.com/oziris78/better-swing"> &nbsp;&nbsp; Better Swing &nbsp; &nbsp; </a>  |  Java  |
-
-<br>
-
-For all of my projects please take a look at my <a href="https://github.com/oziris78/oziris78/blob/main/projects.md">📚 **Project Encyclopedia** 📚</a>
 
 
 
@@ -131,4 +152,11 @@ For all of my projects please take a look at my <a href="https://github.com/ozir
 </a>
 
 </div>
+
+
+
+
+
+
+
 
