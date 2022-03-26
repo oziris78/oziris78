@@ -92,14 +92,15 @@ For all of my projects please take a look at my 📚 <a href="https://github.com
 
 ```yaml
 👨🏻‍💻 IDE / Text Editors:
-   - Android Studio, Intellij IDEA, Eclipse
-   - VS Code, Microsoft VS, Sublime Text
-   - PyCharm, Atom, Notepad++, DevCPP
+   - VS Code, Microsoft VS
+   - Android Studio, Intellij IDEA
+   - Sublime Text, Notepad++
+   - PyCharm, Eclipse
 🎨 Graphics Software:
-   - Aseprite, Paint.net, GIMP, Piskel
+   - Aseprite, Paint.net, GIMP
 🎥 Video Software:
    - Da Vinci Resolve, OBS
-🎤 Audio Software: [a, b]
+🎤 Audio Software:
    - Audacity, LMMS
 📂 Version Control:
    - Git, Github
