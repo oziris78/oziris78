@@ -3,7 +3,7 @@
 
 | 🧊 LANGUAGE | ✍🏻 AUTHOR | 📔 BOOK NAME |
 | :---: | :---: |  :---: | 
-| ...  | ... |  ... |
+| 🟡 Java | Lee Stemkoski |  Java Game Development with LibGDX - From Beginner to Professional |
 
 <br><br>
 
