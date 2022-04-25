@@ -1,9 +1,9 @@
 
 ## 💻 PROGRAMMING BOOKS
 
-| ✍🏻 AUTHOR | 📔 BOOK NAME |
-| :---: |  :---: | 
-| ...  |  ... |
+| 🧊 LANGUAGE | ✍🏻 AUTHOR | 📔 BOOK NAME |
+| :---: | :---: |  :---: | 
+| ...  | ... |  ... |
 
 <br><br>
 
