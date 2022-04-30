@@ -4,12 +4,13 @@
 
 |    Language         |   Repo Count   |
 |    :------          |   :--------------:   |
-|     🟡 Java        |          8           |
-|     🟣 C++         |          2           |
-|     🟠 MATLAB      |          2           |
-|     🔴 Frontend    |          1           |
-|     ⚫ C           |          1           |
-|     🟤 Assembly    |          1           |
+|     🟡 Java         |          8           |
+|     🟣 C++          |          2           |
+|     🟠 MATLAB       |          2           |
+|     🔵 Python       |          1           |
+|     🔴 Frontend     |          1           |
+|     ⚫ C            |          1           |
+|     🟤 Assembly     |          1           |
 
 <br>
 
@@ -50,6 +51,15 @@
 |   :-----------------------------------------------------------------------------------------:   |   :--------------:   |
 |   <a href="https://github.com/oziris78/dtmf_decoder"> DTMF Decoder </a>                         |       Assignment     |
 |   &nbsp;&nbsp;<a href="https://github.com/oziris78/matlab_exercises"> MATLAB Exercises </a>&nbsp;&nbsp;                 |    Learning Repo     |
+
+<br>
+
+
+### 🔵 Python
+
+|                                          Project Title                                          |     Project Type     |
+|   :-----------------------------------------------------------------------------------------:   |   :--------------:   |
+|   <a href="https://github.com/oziris78/python_exercises"> Python Exercises </a>                 |     Learning Repo    |
 
 <br>
 
