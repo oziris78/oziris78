@@ -69,7 +69,7 @@
 
 |                                          Project Title                                          |     Project Type     |
 |   :-----------------------------------------------------------------------------------------:   |   :--------------:   |
-|   &nbsp;&nbsp;<a href="https://github.com/oziris78/data_structures_in_c"> Data Structures </a>&nbsp;&nbsp;              |       Learning Repo        |
+|   &nbsp;&nbsp;<a href="https://github.com/oziris78/c-everything"> C-Everything </a>&nbsp;&nbsp;              |       Learning Repo & Assignment        |
 
 <br>
 
