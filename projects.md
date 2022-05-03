@@ -6,8 +6,8 @@
 |    :------          |   :--------------:   |
 |     🟡 Java         |          9           |
 |     🟣 C++          |          2           |
+|     🔵 Python       |          2           |
 |     🟠 MATLAB       |          2           |
-|     🔵 Python       |          1           |
 |     🔴 Frontend     |          1           |
 |     ⚫ C            |          1           |
 |     🟤 Assembly     |          1           |
@@ -61,6 +61,7 @@
 |                                          Project Title                                          |     Project Type     |
 |   :-----------------------------------------------------------------------------------------:   |   :--------------:   |
 |   <a href="https://github.com/oziris78/python_exercises"> Python Exercises </a>                 |     Learning Repo    |
+|   <a href="https://github.com/oziris78/telekpyhub"> TelekPyHub </a>                       |     Tool    |
 
 <br>
 
