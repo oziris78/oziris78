@@ -60,7 +60,7 @@
 ⚫ Assembly 8086
 ⚫ MATLAB
 ⚫ LaTeX
-⚫ C# (?)
+⚫ C#
 ```
 
 Note 1: the list follows the order I learned the languages <br>
