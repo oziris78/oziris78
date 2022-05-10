@@ -2,8 +2,10 @@
 ## 💻 PROGRAMMING BOOKS
 
 | 🧊 LANGUAGE | ✍🏻 AUTHOR | 📔 BOOK NAME |
-| :---: | :---: |  :---: | 
-| 🟡 Java | Lee Stemkoski |  Java Game Development with LibGDX - From Beginner to Professional |
+| :------: | :-------------------------: |  :-----------------------------------------------------------------: | 
+| 🟡 Java |           Lee Stemkoski      |  Java Game Development with LibGDX - From Beginner to Professional  |
+| ⭕ None | Stack Overflow Documentation |             Algorithms Notes for Professionals                      |
+
 
 <br><br>
 
