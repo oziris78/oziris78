@@ -5,7 +5,8 @@
 | :------: | :-------------------------: |  :-----------------------------------------------------------------: | 
 | 🟡 Java |           Lee Stemkoski      |  Java Game Development with LibGDX - From Beginner to Professional  |
 | ⭕ None | Stack Overflow Documentation |             Algorithms Notes for Professionals                      |
-
+| 🟡 Java |           Patrick Hoey       |                    Mastering LibGDX Game Development                |
+ 
 
 <br><br>
 
