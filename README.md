@@ -10,7 +10,7 @@
 - I have spent my first 2.5 years of university to learn as many programming languages as I can.
 - Now I usually do various projects depending on what I'm recently interested in.
 - I'm interested in game, frontend and desktop application development.
-- My hobbies are doing pixel art, creating SFX, creating music.
+- My hobbies are doing pixel art, creating SFX, creating music, ...
 - Me and <a href="https://www.facebook.com/yunus.cay.986">my best friend</a> are calling ourselves Telek Studios. We usually create games and desktop apps. My friend only helps me with graphics, SFX and music. I am the only developer of Telek Studios and I write all of the code that Telek Studios owns.
 
 
