@@ -63,8 +63,8 @@
 
 |                                          Project Title                                          |     Project Type     |
 |   :-----------------------------------------------------------------------------------------:   |   :--------------:   |
-|   <a href="https://github.com/oziris78/python-exercises"> Python Exercises </a>                 |     Learning Repo    |
 |   <a href="https://github.com/oziris78/steam-crawler"> Steam Crawler </a>                       |     Tool    |
+|   <a href="https://github.com/oziris78/python-exercises"> Python Exercises </a>                 |     Learning Repo    |
 
 <br>
 
