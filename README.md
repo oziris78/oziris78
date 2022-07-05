@@ -9,9 +9,7 @@
 - I study Computer Engineering & Mathematical Engineering at Yıldız Technical University in Istanbul, Turkey.
 - I have spent my first 2.5 years of university to learn as many programming languages as I can.
 - Now I usually do various projects depending on what I'm recently interested in.
-- I'm interested in backend, frontend and game development.
-- I usually use Java, Javascript and Python.
-- My hobbies are doing pixel art, creating SFX, creating music, ...
+- I'm interested in backend, frontend and game development. I usually use Java, JS and Python.
 - Me and my best friend are calling ourselves Twistral Studios. We usually create games and desktop apps. My friend only helps me with graphics, SFX and music. I am the only developer of Twistral Studios and I write all of the code that Twistral Studios owns.
 
 
@@ -46,21 +44,22 @@
 
 ### All the programming/markup/query languages I know:
 
-|⚫ C  |
-| :--- |
-|🔴 Python  |
-|⚫ HTML  |
-|🔴 Java  <br>&ensp;&ensp; - swing, javaFX, libGDX  <br>&ensp;&ensp; - gradle, maven, junit  |
-|⚫ CSS  |
-|⚫ SASS  |
-|🔴 Javascript <br>&ensp;&ensp; - jQuery, webpack, npm  |
-|⚫ C++  |
-|⚫ Assembly 8086  |
-|⚫ MATLAB  |
-|⚫ LaTeX  |
-|⚫ C#  |
+| Language | Technologies  |
+| :--- | :--  |
+|⚫ C  |   |
+|🔴 Python  |   |
+|⚫ HTML  |   |
+|🔴 Java    |  - swing, javaFX, libGDX  <br> - gradle, maven, junit |
+|⚫ CSS  |   |
+|⚫ SASS  |   |
+|🔴 Javascript  |  - jQuery, webpack, npm |
+|⚫ C++  |   |
+|⚫ Assembly 8086  |   |
+|⚫ MATLAB  |   |
+|⚫ LaTeX  |   |
+|⚫ C#  |   |
 
-
+<!--
 ```
 ⚫ C  
 🔴 Python  
@@ -78,7 +77,7 @@
 ⚫ LaTeX  
 ⚫ C#  
 ```
-
+-->
 
 Note 1: the list follows the order I learned the languages <br>
 Note 2: (?) means I'm currently learning it <br>
@@ -90,8 +89,8 @@ Note 3: red dots show my favorite ones <br>
 
 |      &nbsp;&nbsp; 📽 Project Title &nbsp;&nbsp;         |     &nbsp;&nbsp; 📑 Programming Languages &nbsp;&nbsp;     |
 |  :---------------------------------------------------:  |  :------------------------------------------------------:  |
-|  &nbsp;&nbsp; <a href="https://github.com/oziris78/telek-math"> Toria Math  </a> &nbsp;&nbsp;                   |  Java  |
-|  &nbsp;&nbsp; <a href="https://github.com/oziris78/telek-gdx"> Telek GDX  </a> &nbsp;&nbsp;                     |  Java  |  
+|  &nbsp;&nbsp; <a href="https://github.com/oziris78/toria-math"> Toria Math  </a> &nbsp;&nbsp;                   |  Java  |
+|  &nbsp;&nbsp; <a href="https://github.com/oziris78/toria-gdx"> Toria GDX  </a> &nbsp;&nbsp;                     |  Java  |  
 |  &nbsp;&nbsp; <a href="https://github.com/oziris78/frontend_playground"> Frontend Playground </a> &nbsp;&nbsp;  |  HTML, CSS, SASS, JS  |
 <!--|  &nbsp;&nbsp; <a href="https://github.com/oziris78/jaafp"> JAAFP </a> &nbsp;&nbsp;                              |  Java  |
 |  &nbsp;&nbsp; <a href="https://github.com/oziris78/gdx-challenges"> GDX Challenges </a> &nbsp;&nbsp;              |  Java  |-->
