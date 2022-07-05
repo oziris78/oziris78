@@ -91,7 +91,7 @@ Note 3: red dots show my favorite ones <br>
 |  :---------------------------------------------------:  |  :------------------------------------------------------:  |
 |  &nbsp;&nbsp; <a href="https://github.com/oziris78/toria-math"> Toria Math  </a> &nbsp;&nbsp;                   |  Java  |
 |  &nbsp;&nbsp; <a href="https://github.com/oziris78/toria-gdx"> Toria GDX  </a> &nbsp;&nbsp;                     |  Java  |  
-|  &nbsp;&nbsp; <a href="https://github.com/oziris78/frontend_playground"> Frontend Playground </a> &nbsp;&nbsp;  |  HTML, CSS, SASS, JS  |
+|  &nbsp;&nbsp; <a href="https://github.com/oziris78/vanillajs-playground"> VanillaJS Playground </a> &nbsp;&nbsp;  |  HTML, CSS, SASS, JS  |
 <!--|  &nbsp;&nbsp; <a href="https://github.com/oziris78/jaafp"> JAAFP </a> &nbsp;&nbsp;                              |  Java  |
 |  &nbsp;&nbsp; <a href="https://github.com/oziris78/gdx-challenges"> GDX Challenges </a> &nbsp;&nbsp;              |  Java  |-->
 
