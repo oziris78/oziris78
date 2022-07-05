@@ -1,5 +1,6 @@
 
 
+
 # 📚 LANGUAGES
 
 |    Language         |   Repo Count   |
@@ -21,15 +22,15 @@
 
 |                                          Project Title                                          |     Project Type     |
 |   :-----------------------------------------------------------------------------------------:   |   :--------------:   |
-|   <a href="https://github.com/oziris78/telek-math"> Telek Math </a>                             |       Library        |
-|   <a href="https://github.com/oziris78/telek-gdx"> TelekGDX </a>                                |       Library        |
+|   <a href="https://github.com/oziris78/toria-math"> Toria Math </a>                             |       Library        |
+|   <a href="https://github.com/oziris78/toria-gdx"> ToriaGDX </a>                                |       Library        |
 |   <a href="https://github.com/oziris78/jaafp"> JAAFP </a>                                       |        Game          |
 |   <a href="https://github.com/oziris78/gdx-challenges"> GDX Challenges </a>                     |      Playground      |
 |   <a href="https://github.com/oziris78/better-swing"> Better Swing </a>                         |       Library        |
-|   <a href="https://github.com/oziris78/tunerik_kosusu"> Tünerik Koşusu </a>                     |        Game          |
+|   <a href="https://github.com/oziris78/tunerik-kosusu"> Tünerik Koşusu </a>                     |        Game          |
 |   <a href="https://github.com/oziris78/the2048"> The2048 </a>                                   |        Game          |
-|   <a href="https://github.com/oziris78/telek-fx"> TelekFX </a>                                  |       Library        |
-|   &nbsp;&nbsp;<a href="https://github.com/oziris78/javafx_gradle_example"> JavaFX Gradle Example </a>&nbsp;&nbsp;       |       Template       |
+|   <a href="https://github.com/oziris78/toria-fx"> ToriaFX </a>                                  |       Library        |
+|   &nbsp;&nbsp;<a href="https://github.com/oziris78/javafx-gradle-example"> JavaFX Gradle Example </a>&nbsp;&nbsp;       |       Template       |
 
 <br>
 
@@ -52,8 +53,8 @@
 
 |                                          Project Title                                          |     Project Type     |
 |   :-----------------------------------------------------------------------------------------:   |   :--------------:   |
-|   <a href="https://github.com/oziris78/dtmf_decoder"> DTMF Decoder </a>                         |       Assignment     |
-|   &nbsp;&nbsp;<a href="https://github.com/oziris78/matlab_exercises"> MATLAB Exercises </a>&nbsp;&nbsp;                 |    Learning Repo     |
+|   <a href="https://github.com/oziris78/dtmf-decoder"> DTMF Decoder </a>                         |       Assignment     |
+|   &nbsp;&nbsp;<a href="https://github.com/oziris78/matlab-exercises"> MATLAB Exercises </a>&nbsp;&nbsp;                 |    Learning Repo     |
 
 <br>
 
@@ -62,8 +63,8 @@
 
 |                                          Project Title                                          |     Project Type     |
 |   :-----------------------------------------------------------------------------------------:   |   :--------------:   |
-|   <a href="https://github.com/oziris78/python_exercises"> Python Exercises </a>                 |     Learning Repo    |
-|   <a href="https://github.com/oziris78/telekpyhub"> TelekPyHub </a>                       |     Tool    |
+|   <a href="https://github.com/oziris78/python-exercises"> Python Exercises </a>                 |     Learning Repo    |
+|   <a href="https://github.com/oziris78/steam-crawler"> Steam Crawler </a>                       |     Tool    |
 
 <br>
 
@@ -73,7 +74,7 @@
 
 |                                          Project Title                                          |     Project Type     |
 |   :-----------------------------------------------------------------------------------------:   |   :--------------:   |
-|   &nbsp;&nbsp;<a href="https://github.com/oziris78/frontend_playground"> Frontend Playground </a>&nbsp;&nbsp;           |      Playground      |
+|   &nbsp;&nbsp;<a href="https://github.com/oziris78/vanillajs-playground"> VanillaJS Playground </a>&nbsp;&nbsp;           |      Playground      |
 
 <br>
 
@@ -93,7 +94,7 @@
 
 |                                                 Project Title                                                 |      Project Type      |
 |   :-------------------------------------------------------------------------------------------------------:   |    :--------------:    |
-|   &nbsp;&nbsp;<a href="https://github.com/oziris78/assembly_linkedlist_implementation"> LinkedList Implementation </a>&nbsp;&nbsp;    |       Assignment       |
+|   &nbsp;&nbsp;<a href="https://github.com/oziris78/assembly-linkedlist"> LinkedList Implementation </a>&nbsp;&nbsp;    |       Assignment       |
 
 
 
