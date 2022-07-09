@@ -32,7 +32,7 @@
 |   <a href="https://github.com/oziris78/jaafp"> JAAFP </a>                                       |        Game          |
 |   <a href="https://github.com/oziris78/the2048"> The2048 </a>                                   |        Game          |
 |   <a href="https://github.com/oziris78/tunerik-kosusu"> Tünerik Koşusu </a>                     |        Game          |
-|   &nbsp;&nbsp;<a href="https://github.com/oziris78/javafx-gradle-example"> JavaFX Gradle Example </a>&nbsp;&nbsp;       |       Template       |
+|   <a href="https://github.com/oziris78/javafx-gradle-example"> JavaFX Gradle Example </a>       |       Template       |
 
 <br>
 
