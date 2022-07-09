@@ -5,7 +5,7 @@
 
 |    Language         |   Repo Count   |
 |    :------          |   :--------------:   |
-|     🟡 Java         |          9           |
+|     🟡 Java         |         11           |
 |     🟣 C++          |          3           |
 |     🔵 Python       |          2           |
 |     🟠 MATLAB       |          2           |
@@ -24,12 +24,14 @@
 |   :-----------------------------------------------------------------------------------------:   |   :--------------:   |
 |   <a href="https://github.com/oziris78/toria-math"> Toria Math </a>                             |       Library        |
 |   <a href="https://github.com/oziris78/toria-gdx"> ToriaGDX </a>                                |       Library        |
-|   <a href="https://github.com/oziris78/jaafp"> JAAFP </a>                                       |        Game          |
-|   <a href="https://github.com/oziris78/gdx-challenges"> GDX Challenges </a>                     |      Playground      |
-|   <a href="https://github.com/oziris78/better-swing"> Better Swing </a>                         |       Library        |
-|   <a href="https://github.com/oziris78/tunerik-kosusu"> Tünerik Koşusu </a>                     |        Game          |
-|   <a href="https://github.com/oziris78/the2048"> The2048 </a>                                   |        Game          |
 |   <a href="https://github.com/oziris78/toria-fx"> ToriaFX </a>                                  |       Library        |
+|   <a href="https://github.com/oziris78/better-swing"> Better Swing </a>                         |       Library        |
+|   <a href="https://github.com/oziris78/gdx-challenges"> GDX Challenges </a>                     |      Playground      |
+|   <a href="https://github.com/oziris78/javafx-playground"> JavaFX Playground </a>               |      Playground      |
+|   <a href="https://github.com/oziris78/bitterweed"> Bitterweed </a>                             |        Tool          |
+|   <a href="https://github.com/oziris78/jaafp"> JAAFP </a>                                       |        Game          |
+|   <a href="https://github.com/oziris78/the2048"> The2048 </a>                                   |        Game          |
+|   <a href="https://github.com/oziris78/tunerik-kosusu"> Tünerik Koşusu </a>                     |        Game          |
 |   &nbsp;&nbsp;<a href="https://github.com/oziris78/javafx-gradle-example"> JavaFX Gradle Example </a>&nbsp;&nbsp;       |       Template       |
 
 <br>
