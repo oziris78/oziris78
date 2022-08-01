@@ -7,13 +7,13 @@
 
 # 📚 LANGUAGES
 
-|    Language         |   Repo Count   |
-|    :------          |   :--------------:   |
+|    Language          |   Repo Count         |
+|    :-------          |   :--------------:   |
 |     🟡 Java         |         11           |
 |     🟣 C++          |          3           |
 |     🔵 Python       |          2           |
 |     🟠 MATLAB       |          2           |
-|     🔴 Frontend     |          1           |
+|     🔴 Javascript   |          1           |
 |     ⚫ C            |          1           |
 |     🟤 Assembly     |          1           |
 
