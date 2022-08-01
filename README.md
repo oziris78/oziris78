@@ -10,7 +10,7 @@
 - I have spent my first 2.5 years of university to learn as many programming languages as I can.
 - Now I usually do various projects depending on what I'm recently interested in.
 - I'm interested in backend, frontend and game development. I usually use Java, JS and Python.
-- Me and my best friend are calling ourselves Twistral Studios. We usually create games and desktop apps. My friend only helps me with graphics, SFX and music. I am the only developer of Twistral Studios and I write all of the code that Twistral Studios owns.
+- Me and my best friend are calling ourselves Twistral Studios. We usually create games and tools. My friend only helps me with design related stuff. I am the only developer of Twistral Studios and I write all of the code that it owns.
 
 
 <br>
