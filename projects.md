@@ -1,6 +1,10 @@
 
 
 
+
+
+
+
 # 📚 LANGUAGES
 
 |    Language         |   Repo Count   |
@@ -16,87 +20,95 @@
 <br>
 
 
-# 🖥 PROJECTS
-
-### 🟡 Java
-
-|                                          Project Title                                          |     Project Type     |
-|   :-----------------------------------------------------------------------------------------:   |   :--------------:   |
-|   <a href="https://github.com/oziris78/toria-math"> Toria Math </a>                             |       Library        |
-|   <a href="https://github.com/oziris78/toria-gdx"> ToriaGDX </a>                                |       Library        |
-|   <a href="https://github.com/oziris78/toria-fx"> ToriaFX </a>                                  |       Library        |
-|   <a href="https://github.com/oziris78/better-swing"> Better Swing </a>                         |       Library        |
-|   <a href="https://github.com/oziris78/gdx-challenges"> GDX Challenges </a>                     |      Playground      |
-|   <a href="https://github.com/oziris78/javafx-playground"> JavaFX Playground </a>               |      Playground      |
-|   <a href="https://github.com/oziris78/bitterweed"> Bitterweed </a>                             |        Tool          |
-|   <a href="https://github.com/oziris78/jaafp"> JAAFP </a>                                       |        Game          |
-|   <a href="https://github.com/oziris78/the2048"> The2048 </a>                                   |        Game          |
-|   <a href="https://github.com/oziris78/tunerik-kosusu"> Tünerik Koşusu </a>                     |        Game          |
-|   <a href="https://github.com/oziris78/javafx-gradle-example"> JavaFX Gradle Example </a>       |       Template       |
-
-<br>
 
 
 
-### 🟣 C++
+# 📽 PROJECTS
 
-|                                                 Project Title                                                 |     Project Type     |
-|   :-------------------------------------------------------------------------------------------------------:   |   :--------------:   |
-|   <a href="https://github.com/oziris78/asciify-this-and-that"> Asciify This & That </a>                       |         Tool         |
-|   &nbsp;&nbsp;<a href="https://github.com/oziris78/cpp-multiple-project-template"> CPP Multiple Project Template </a>&nbsp;&nbsp;    |      Template        |
-|   <a href="https://github.com/oziris78/cpp-project-template"> CPP Project Template </a>                       |      Template        |
+### 📚 Libraries
+
+|  Language          |                                          Project Title                                          |
+|  :--------------:  |   :-----------------------------------------------------------------------------------------:   |
+|  🟡 Java          |    <a href="https://github.com/oziris78/toria-math"> Toria Math </a>                             |
+|  🟡 Java          |    <a href="https://github.com/oziris78/toria-gdx"> Toria GDX </a>                                |
+|  🟡 Java          |    <a href="https://github.com/oziris78/toria-fx"> Toria FX </a>                                  |
+|  🟡 Java          |    <a href="https://github.com/oziris78/better-swing"> Better Swing </a>                         |
 
 
 <br>
 
 
+### 🔨 Tools
 
-### 🟠 MATLAB
+|  Language          |                                          Project Title                                          | 
+|  :--------------:  |   :-----------------------------------------------------------------------------------------:   | 
+|  🟡 Java          |   <a href="https://github.com/oziris78/bitterweed"> Bitterweed </a>                             |
+|  🟣 C++           |   <a href="https://github.com/oziris78/asciify-this-and-that"> Asciify This & That </a>         |
+|  🔵 Python        |   <a href="https://github.com/oziris78/steam-crawler"> Steam Crawler </a>                       |
 
-|                                          Project Title                                          |     Project Type     |
-|   :-----------------------------------------------------------------------------------------:   |   :--------------:   |
-|   <a href="https://github.com/oziris78/dtmf-decoder"> DTMF Decoder </a>                         |       Assignment     |
-|   &nbsp;&nbsp;<a href="https://github.com/oziris78/matlab-exercises"> MATLAB Exercises </a>&nbsp;&nbsp;                 |    Learning Repo     |
 
 <br>
 
 
-### 🔵 Python
+### 🎮 Games
 
-|                                          Project Title                                          |     Project Type     |
-|   :-----------------------------------------------------------------------------------------:   |   :--------------:   |
-|   <a href="https://github.com/oziris78/steam-crawler"> Steam Crawler </a>                       |     Tool    |
-|   <a href="https://github.com/oziris78/python-exercises"> Python Exercises </a>                 |     Learning Repo    |
+|  Language          |                                          Project Title                                          |   Technologies |
+|  :--------------:  |   :-----------------------------------------------------------------------------------------:   |  :-----------: |
+|  🟡 Java          |    <a href="https://github.com/oziris78/jaafp"> JAAFP </a>                                       |  LibGDX       |
+|  🟡 Java          |    <a href="https://github.com/oziris78/the2048"> The2048 </a>                                   |  LibGDX       |
+|  🟡 Java          |    <a href="https://github.com/oziris78/tunerik-kosusu"> Tünerik Koşusu </a>                     |  Swing        |
+
 
 <br>
 
 
+### 🚩 Playgrounds
 
-### 🔴 Frontend
+|  Language          |                                          Project Title                                          |
+|  :--------------:  |   :-----------------------------------------------------------------------------------------:   |
+|  🟡 Java          |    <a href="https://github.com/oziris78/gdx-challenges"> GDX Challenges </a>                     |  
+|  🟡 Java          |    <a href="https://github.com/oziris78/javafx-playground"> JavaFX Playground </a>               |  
+|  🔴 Javascript    |    <a href="https://github.com/oziris78/vanillajs-playground"> VanillaJS Playground </a>         |
 
-|                                          Project Title                                          |     Project Type     |
-|   :-----------------------------------------------------------------------------------------:   |   :--------------:   |
-|   &nbsp;&nbsp;<a href="https://github.com/oziris78/vanillajs-playground"> VanillaJS Playground </a>&nbsp;&nbsp;           |      Playground      |
 
 <br>
 
 
+### 👨🏻‍🎓 University Related
 
-### ⚫ C
+|  Language          |                                          Project Title                                          |
+|  :--------------:  |   :-----------------------------------------------------------------------------------------:   |
+|  ⚫ C              |    <a href="https://github.com/oziris78/c-everything"> C-Everything </a>                        |
+|  🟠 MATLAB         |  <a href="https://github.com/oziris78/dtmf-decoder"> DTMF Decoder </a>                          |
+|  🟤 Assembly       |    <a href="https://github.com/oziris78/assembly-linkedlist"> LinkedList Implementation </a>    |
 
-|                                          Project Title                                          |     Project Type     |
-|   :-----------------------------------------------------------------------------------------:   |   :--------------:   |
-|   &nbsp;&nbsp;<a href="https://github.com/oziris78/c-everything"> C-Everything </a>&nbsp;&nbsp;              |       Learning Repo & Assignment        |
 
 <br>
 
 
+### 🧪 Learning Repos
 
-### 🟤 Assembly
+|  Language          |                                          Project Title                                          |
+|  :--------------:  |   :-----------------------------------------------------------------------------------------:   |
+|  🔵 Python         |    <a href="https://github.com/oziris78/python-exercises"> Python Exercises </a>               |
+|  🟠 MATLAB         |   <a href="https://github.com/oziris78/matlab-exercises"> MATLAB Exercises </a>                |
 
-|                                                 Project Title                                                 |      Project Type      |
-|   :-------------------------------------------------------------------------------------------------------:   |    :--------------:    |
-|   &nbsp;&nbsp;<a href="https://github.com/oziris78/assembly-linkedlist"> LinkedList Implementation </a>&nbsp;&nbsp;    |       Assignment       |
+
+<br>
+
+
+### 📄 Templates
+
+|  Language          |                                          Project Title                                                      |
+|  :--------------:  |   :-----------------------------------------------------------------------------------------:   |
+| 🟡 Java           |   <a href="https://github.com/oziris78/javafx-gradle-example"> JavaFX Gradle Example </a>                    |
+| 🟣 C++            |   <a href="https://github.com/oziris78/cpp-multiple-project-template"> CPP Multiple Project Template </a>    |
+| 🟣 C++            |   <a href="https://github.com/oziris78/cpp-project-template"> CPP Project Template </a>                      |
+
+
+
+
+
 
 
 
