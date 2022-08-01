@@ -78,7 +78,7 @@
 
 |  Language          |                                          Project Title                                          |
 |  :--------------:  |   :-----------------------------------------------------------------------------------------:   |
-|  ⚫ C              |    <a href="https://github.com/oziris78/c-everything"> C-Everything </a>                        |
+|  ⚫ C              |    <a href="https://github.com/oziris78/c-everything"> C Everything </a>                        |
 |  🟠 MATLAB         |  <a href="https://github.com/oziris78/dtmf-decoder"> DTMF Decoder </a>                          |
 |  🟤 Assembly       |    <a href="https://github.com/oziris78/assembly-linkedlist"> LinkedList Implementation </a>    |
 
