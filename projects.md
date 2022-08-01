@@ -90,7 +90,7 @@
 
 |  Language          |                                          Project Title                                          |
 |  :--------------:  |   :-----------------------------------------------------------------------------------------:   |
-|      Python        |   <a href="https://github.com/oziris78/python-exercises"> Python Exercises </a> &nbsp;&nbsp;  |
+|      Python        |   <a href="https://github.com/oziris78/python-exercises"> Python Exercises </a>  |
 | &nbsp;&nbsp; MATLAB &nbsp;&nbsp; |  &nbsp;&nbsp; <a href="https://github.com/oziris78/matlab-exercises"> MATLAB Exercises </a> &nbsp;&nbsp; |
 
 
@@ -102,11 +102,12 @@
 |  Language          |                                          Project Title                                                      |
 |  :--------------:  |   :-----------------------------------------------------------------------------------------------------:   |
 |  Java             |   &nbsp;&nbsp;<a href="https://github.com/oziris78/javafx-gradle-example"> JavaFX Gradle Example </a>&nbsp;&nbsp;                    |
-| &nbsp;&nbsp;  C++ &nbsp;&nbsp; | &nbsp;&nbsp; <a href="https://github.com/oziris78/cpp-multiple-project-template"> CPP Multiple Project Template </a>  &nbsp;&nbsp;  |
+| &nbsp;&nbsp; C++ &nbsp;&nbsp; | &nbsp;&nbsp; <a href="https://github.com/oziris78/cpp-multiple-project-template"> CPP Multiple Project Template </a>  &nbsp;&nbsp;  |
 |   C++             |   <a href="https://github.com/oziris78/cpp-project-template"> CPP Project Template </a>                      |
 
 
 
+<br>
 
 
 
