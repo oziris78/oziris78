@@ -29,10 +29,10 @@
 
 |  Language          |                                          Project Title                                          |
 |  :--------------:  |   :-----------------------------------------------------------------------------------------:   |
-|     Java           |    <a href="https://github.com/oziris78/toria-math"> Toria Math </a>                            |
-|     Java           |    <a href="https://github.com/oziris78/toria-gdx"> Toria GDX </a>                              |
-|     Java           |    <a href="https://github.com/oziris78/toria-fx"> Toria FX </a>                                |
-| &nbsp;&nbsp; Java &nbsp;&nbsp; | &nbsp;&nbsp; <a href="https://github.com/oziris78/better-swing"> Better Swing </a> &nbsp;&nbsp; |
+|     Java           |    <a href="https://github.com/oziris78/tephrium"> Tephrium </a>                                |
+|     Java           |    <a href="https://github.com/oziris78/thulite-gdx"> Thulite GDX </a>                          |
+|     Java           |    <a href="https://github.com/oziris78/paxite-fx"> Paxite FX </a>                              |
+|     Java           |    <a href="https://github.com/oziris78/kesple"> Kesple </a>                                    |
 
 
 <br>
