@@ -30,7 +30,7 @@
 |  Language          |                                          Project Title                                          |
 |  :--------------:  |   :-----------------------------------------------------------------------------------------:   |
 |     Java           |    <a href="https://github.com/oziris78/tephrium"> Tephrium </a>                                |
-|     Java           |    <a href="https://github.com/oziris78/thulite-gdx"> Thulite GDX </a>                          |
+|     Java           |    <a href="https://github.com/oziris78/tantite-gdx"> Tantite GDX </a>                          |
 |     Java           |    <a href="https://github.com/oziris78/paxite-fx"> Paxite FX </a>                              |
 |     Java           |    <a href="https://github.com/oziris78/kesple"> Kesple </a>                                    |
 
