@@ -52,10 +52,10 @@
 
 ### 🎮 Games
 
-|  Language          |                                          Project Title                          |   Technologies |
+|  Language          |                                          Project Title                          |   Framework/Engine |
 |  :--------------:  |   :-------------------------------------------------------------------------:   |  :-----------: |
-|     Java           |    <a href="https://github.com/oziris78/jaafp"> JAAFP </a>                      |   LibGDX       |
-|     Java           |    <a href="https://github.com/oziris78/the2048"> The2048 </a>                  |   LibGDX       |
+|     Java           |    <a href="https://github.com/oziris78/jaafp"> JAAFP </a>                      |   libGDX       |
+|     Java           |    <a href="https://github.com/oziris78/the2048"> The2048 </a>                  |   libGDX       |
 | &nbsp;&nbsp; Java &nbsp;&nbsp; | &nbsp;&nbsp; <a href="https://github.com/oziris78/tunerik-kosusu"> Tünerik Koşusu </a> &nbsp;&nbsp; |   Swing   |
 
 
