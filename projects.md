@@ -42,7 +42,6 @@
 
 |  Language          |                                          Project Title                                          | 
 |  :--------------:  |   :-----------------------------------------------------------------------------------------:   | 
-|   Java             |   <a href="https://github.com/oziris78/bitterweed"> Bitterweed </a>                             |
 |  C++               |  <a href="https://github.com/oziris78/asciify-this-and-that"> Asciify This & That </a>          |
 |  Python            |   <a href="https://github.com/oziris78/steam-crawler"> Steam Crawler </a>                       |
 
