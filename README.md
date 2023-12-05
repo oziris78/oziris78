@@ -5,11 +5,10 @@
 
 <h1 align="center"> 🚀 About Me</h1>
 
-- Hello, my name is Oğuzhan Topaloğlu. I'm known as "OziRis78" or "Tünerik Gezgini" on the web.
+- Hello, my name is Oğuzhan Topaloğlu. I'm also known as "OziRis78" or "Tünerik Gezgini" on the web.
 - I study Computer Engineering & Mathematical Engineering at Yıldız Technical University in Istanbul, Turkey.
-- I have spent my first 2.5 years of university to learn as many programming languages as I can.
-- Now I usually do various projects depending on what I'm recently interested in.
-- I'm interested in backend, frontend and game development. I usually use Java, JS and Python.
+- I know many languages and I usually do various projects depending on what I'm recently interested in.
+- I'm interested in backend, frontend and game development and I mostly use Java, JS and Python.
 - Me and my best friend are calling ourselves Twistral Studios. We usually create games and tools. My friend only helps me with design related stuff. I am the only developer of Twistral Studios and I write all of the code that it owns.
 
 
@@ -42,62 +41,21 @@
 
 
 
-### All the programming/markup/query languages I know:
+### My Tech Stack Progression:
 
-| Language | Technologies  |
-| :--- | :--  |
-|⚫ C  |   |
-|🔴 Python  |   |
-|⚫ HTML  |   |
-|🔴 Java    |  - swing, javaFX, libGDX  <br> - gradle, maven, junit |
-|⚫ CSS  |   |
-|⚫ SASS  |   |
-|🔴 Javascript  |  - jQuery, webpack, npm |
-|⚫ C++  |   |
-|⚫ Assembly 8086  |   |
-|⚫ MATLAB  |   |
-|⚫ LaTeX  |   |
-|⚫ C#  |   |
+- C
+- Python
+- HTML
+- Java
+- CSS
+- SASS
+- Javascript
+- C++
+- ASM 8086
+- MATLAB
+- LaTeX
+- C#
 
-<!--
-```
-⚫ C  
-🔴 Python  
-⚫ HTML  
-🔴 Java  
-   - swing, javaFX, libGDX  
-   - gradle, maven, junit  
-⚫ CSS  
-⚫ SASS  
-🔴 Javascript  
-   - jQuery, webpack, npm  
-⚫ C++  
-⚫ Assembly 8086  
-⚫ MATLAB  
-⚫ LaTeX  
-⚫ C#  
-```
--->
-
-Note 1: the list follows the order I learned the languages <br>
-Note 2: (?) means I'm currently learning it <br>
-Note 3: red dots show my favorite ones <br>
-
-<br>
-
-### My Favorite 3 Projects:
-
-|      &nbsp;&nbsp; 📽 Project Title &nbsp;&nbsp;         |     &nbsp;&nbsp; 📑 Programming Languages &nbsp;&nbsp;     |
-|  :---------------------------------------------------:  |  :------------------------------------------------------:  |
-|  &nbsp;&nbsp; <a href="https://github.com/oziris78/tephrium"> Tephrium  </a> &nbsp;&nbsp;                   |  Java  |
-|  &nbsp;&nbsp; <a href="https://github.com/oziris78/tantite-gdx"> Tantite GDX  </a> &nbsp;&nbsp;                     |  Java  |  
-|  &nbsp;&nbsp; <a href="https://github.com/oziris78/vanillajs-playground"> VanillaJS Playground </a> &nbsp;&nbsp;  |  HTML, CSS, SASS, JS  |
-<!--|  &nbsp;&nbsp; <a href="https://github.com/oziris78/jaafp"> JAAFP </a> &nbsp;&nbsp;                              |  Java  |
-|  &nbsp;&nbsp; <a href="https://github.com/oziris78/gdx-challenges"> GDX Challenges </a> &nbsp;&nbsp;              |  Java  |-->
-
-<br>
-
-For all of my projects please take a look at my 📚 <a href="https://github.com/oziris78/oziris78/blob/main/projects.md"> **` Project Encyclopedia `**</a> 📚
 
 
 
@@ -139,11 +97,6 @@ For all of my projects please take a look at my 📚 <a href="https://github.com
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" title="Facebook">
 </a>
 
-<!---
-<a href="mailto:nononosorry@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" title="GMail">
-</a>
---->
 
 </div>
 
