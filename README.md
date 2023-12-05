@@ -8,7 +8,7 @@
 - Hello, I'm Oğuzhan Topaloğlu, also known as "OziRis78" or "Tünerik Gezgini" on the web.
 - I'm currently studying Computer Engineering & Mathematical Engineering at Yıldız Technical University in Istanbul, Turkey.
 - I'm proficient in various programming languages and work on various projects based on my current interests.
-- My focus areas include backend, frontend, and game development, with Java, JavaScript, and Python being my primary languages.
+- My focus areas include backend, frontend, and game development, with Java, Javascript, and Python being my primary languages.
 - Me and my best friend Yunus go by the name Twistral Studios. We usually create games and tools. Yunus only helps me with design related stuff whereas I write all of the code that Twistral owns.
 
 
