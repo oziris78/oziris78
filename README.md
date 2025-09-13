@@ -9,7 +9,7 @@
 - I'm currently studying Computer Engineering & Mathematical Engineering at Yıldız Technical University in Istanbul, Turkey.
 - I'm proficient in various programming languages and work on various projects based on my current interests.
 - My focus areas include backend, frontend, and game development, with Java, Javascript, and Python being my primary languages.
-- Twistral Studios is the name I personal use for my projects, where I handle all development and management.
+- Twistral Studios is the name I use for my personal projects, where I handle all development and management.
 
 
 <br>
