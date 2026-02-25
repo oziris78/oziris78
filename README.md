@@ -1,36 +1,30 @@
 
 
-
-
-
 <h1 align="center"> 🚀 About Me</h1>
 
 - Hi I am Oğuzhan Topaloğlu, also known as "OziRis78" or "Tünerik Gezgini" on the web.
-- I'm currently studying Computer Engineering & Mathematical Engineering at Yıldız Technical University in Istanbul, Turkey.
-- I'm proficient in various programming languages and work on various projects based on my current interests.
-- My focus areas include backend, frontend, and game development, with Java, Javascript, and Python being my primary languages.
-- Twistral Studios is the name I use for my personal projects, where I handle all development and management.
-
+- I graduated in Computer Engineering & Mathematical Engineering from Yıldız Technical University in Istanbul, Turkey.
+- I am proficient in various programming languages and actively build projects driven by my current interests.
+- My focus is mostly on backend, frontend and game development. Using Java, Javascript and Python.
+- Twistral Studios is a "one-man studio" that I founded, where I independently handle all development and management of my projects.
 
 <br>
 
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=oziris78&show_icons=true&count_private=true&theme=dracula&include_all_commits=true">
-   &nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oziris78&layout=compact&theme=dracula&langs_count=10">
+  <img 
+    height="165"
+    src="https://github-readme-stats.vercel.app/api?username=oziris78&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&theme=dracula&hide_border=true" 
+  />
+  <img 
+    height="165"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=oziris78&layout=compact&langs_count=8&theme=dracula&hide_border=true&hide=html,css,tex" 
+  />
 </p>
-
-
-
-
-
-
 
 <br>
 
 <h1 align="center"> ⚡ Tech Stack </h1>
-
 
 ### My Tech Stack Progression:
 
@@ -46,7 +40,6 @@
 - MATLAB
 - LaTeX
 - C#
-
 
 <br>
 
@@ -71,25 +64,5 @@ Audio Software:
 Version Control:
    - Git, Github
 ```
-
-
-<!--
-
-<br>
-
-<h1 align="center">📭 Reach Me</h1>
-
-<div align="center">
-   <a href="https://www.instagram.com/tunerikgezgini78/">
-      <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" title="Instagram">
-   </a>
-   
-   <a href="https://www.linkedin.com/in/o%C4%9Fuzhan-topalo%C4%9Flu-787b2b205/">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" title="LinkedIn">
-   </a>
-</div>
-
--->
-
 
 
